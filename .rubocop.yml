@@ -1,0 +1,24 @@
+Style/Blocks:
+  Enabled: false
+
+# Offense count: 1
+Style/Documentation:
+  Enabled: false
+
+# Offense count: 3
+# Configuration parameters: Exclude.
+Style/FileName:
+  Enabled: false
+
+# Offense count: 2
+# Configuration parameters: CountComments.
+Style/MethodLength:
+  Max: 13
+
+# Offense count: 2
+Style/MultilineBlockChain:
+  Enabled: false
+
+# Offense count: 2
+Style/RegexpLiteral:
+  MaxSlashes: 0
