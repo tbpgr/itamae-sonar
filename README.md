@@ -4,6 +4,8 @@ ItamaeSonar search itamae plugin gems.
 
 [Itamae](https://github.com/ryotarai/itamae) is Simple and lightweight configuration management tool inspired by Chef.
 
+[![Build Status](https://travis-ci.org/tbpgr/itamae-sonar.png?branch=master)](https://travis-ci.org/tbpgr/itamae-sonar)
+
 ## Installation
 
 Add this line to your application's Gemfile:
