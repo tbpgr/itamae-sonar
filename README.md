@@ -6,6 +6,7 @@ ItamaeSonar search itamae plugin gems.
 
 [![Gem Version](https://badge.fury.io/rb/itamae-sonar.svg)](http://badge.fury.io/rb/itamae-sonar)
 [![Build Status](https://travis-ci.org/tbpgr/itamae-sonar.png?branch=master)](https://travis-ci.org/tbpgr/itamae-sonar)
+[![Coverage Status](https://coveralls.io/repos/tbpgr/itamae-sonar/badge.png)](https://coveralls.io/r/tbpgr/itamae-sonar)
 
 ## Installation
 
