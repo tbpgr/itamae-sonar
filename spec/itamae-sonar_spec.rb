@@ -125,7 +125,7 @@ describe ItamaeSonar do
           case_before c
 
           # -- given --
-          allow(Gems).to receive(:search).and_return(itamae_mock)
+          allow(ItamaeSonar).to receive(:search).and_return(itamae_mock)
 
           # -- when --
           actual = ItamaeSonar.random
@@ -208,7 +208,7 @@ describe ItamaeSonar do
           case_before c
 
           # -- given --
-          allow(Gems).to receive(:search).and_return(itamae_mock)
+          allow(ItamaeSonar).to receive(:search).and_return(itamae_mock)
 
           # -- when --
           if c[:limit]
@@ -305,7 +305,7 @@ describe ItamaeSonar do
           case_before c
 
           # -- given --
-          allow(Gems).to receive(:search).and_return(itamae_mock)
+          allow(ItamaeSonar).to receive(:search).and_return(itamae_mock)
 
           # -- when --
           if c[:limit]
